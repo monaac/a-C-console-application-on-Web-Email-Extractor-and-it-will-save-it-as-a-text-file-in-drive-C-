@@ -1,0 +1,1 @@
+This program first prompts the user for a URL, then downloads the HTML of that page using the WebClient class. It then uses a regular expression to extract all email addresses from the HTML, and outputs them to the console. Finally, it saves the email addresses to a text file in drive C.
